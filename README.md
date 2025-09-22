@@ -1,4 +1,5 @@
 # ChatGPT Project Proposal
+<img width="1280" height="720" alt="image" src="https://github.com/user-attachments/assets/349c7148-a0cd-413d-a08c-6d2205499f83" />
 
 ## Description
 
